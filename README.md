@@ -1,11 +1,15 @@
 # Hi there! 👋 I'm Luis Joshua Bulatao
 
 ## About me:
-
-I am Luis Joshua Bulatao, a passionate coder with a knack for database management. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Information Technology program, and I've been hooked ever since.
+I am Luis Joshua Bulatao, a passionate coder with a knack for database management. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with the BS Computer Science program, and I've been hooked ever since.
 
 ## Education:
-
+- **Junior Highschool**
+  - *New Era University*
+  - 2016-2020
+- ** Senior Highschool**
+  -*New Era University*
+  -2020-2021 
 - **BS Computer Science**
   - *New Era University*
   - *2021-Present*
