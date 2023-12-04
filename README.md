@@ -6,10 +6,10 @@ I am Luis Joshua Bulatao, a passionate coder with a knack for database managemen
 ## Education:
 - **Junior Highschool**
   - *New Era University*
-  - 2016-2020
+  - *2016-2020*
 - ** Senior Highschool**
   -*New Era University*
-  -2020-2021 
+  -*2020-2021* 
 - **BS Computer Science**
   - *New Era University*
   - *2021-Present*
