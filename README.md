@@ -38,5 +38,5 @@ I am Luis Joshua Bulatao, a passionate coder with a knack for database managemen
 
 ## Let's Connect:
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Contact #** 09455270717
 - **Email:** bluisjoshua@gmail.com
