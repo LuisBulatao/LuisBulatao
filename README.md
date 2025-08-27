@@ -12,7 +12,7 @@ I am Luis Joshua Bulatao, a passionate coder with a knack for database managemen
   - *2020-2021* 
 - **BS Computer Science**
   - *New Era University*
-  - *2021-Present*
+  - *2022-Present*
 
 ## Certifications:
 
