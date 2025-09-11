@@ -1,6 +1,5 @@
 # Hi! 👋 I'm Luis Joshua
 
-<p> A Computer Science student who loves solving problems with code. Whether it’s managing data, building apps, or exploring new tech, I’m always excited to learn and create something meaningful. </p>
 
 ## 🎓 Education:
 <h3> BS Computer Science </h3>
